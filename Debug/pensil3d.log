@@ -1,0 +1,11 @@
+﻿  pensil.cpp
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(20,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(50,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(54,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(54,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(62,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(65,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(67,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(72,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\pensil3d\pensil.cpp(77,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  pensil3d.vcxproj -> C:\Users\ASUS.LAPTOP-13T7FEU9\source\repos\pensil3d\Debug\pensil3d.exe
